@@ -79,8 +79,8 @@ Ethics First: This script is for learning purposes only. Always get proper autho
 
 File Permissions: Ensure you have write permissions in the directory where you run the script.
 
-Troubleshooting
-pynput Not Installed?
+Troubleshooting<BR>
+pynput Not Installed?<BR>
 Run:
 
 bash
@@ -97,7 +97,7 @@ Script Not Stopping?
 
 Make sure the terminal window is active when pressing Esc.
 
-Author
+Author<BR>
 Designed by KEDARI Sneha, for educational and demonstration purposes.
 
 Enjoy exploring the world of Python programming and ethical hacking! 🎉
