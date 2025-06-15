@@ -2,14 +2,17 @@ kEYLOGGER <br>
 
 What Does This Project Do?
 This is a basic keylogger that listens to all the keystrokes you press on your keyboard and logs them into a text file with timestamps. It helps you learn how keyloggers work and highlights the importance of cybersecurity.
-FEATURES:
+FEATURES:<br>
 Tracks and logs every keypress, including letters, numbers, and special keys (like Enter or Space).
+
 Logs each key with the exact time it was pressed.
+
 Stores the logs in a file named keylogger_output.txt for easy access.
-How to Set It Up
-Install Python:
+How to Set It Up<br>
+Install Python:<br>
 Make sure you have Python 3.x installed on your computer.<br>
-Install the Required Library:
+Install the Required Library:<br>
+
 Open a terminal and run this command:<br>
 
 bash
