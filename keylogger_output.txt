@@ -1,0 +1,102 @@
+2025-06-15 19:52:16 - Special key pressed: Key.enter
+2025-06-15 19:52:22 - Key pressed: b
+2025-06-15 19:52:23 - Key pressed: h
+2025-06-15 19:52:23 - Key pressed: j
+2025-06-15 19:52:23 - Key pressed: g
+2025-06-15 19:52:23 - Key pressed: u
+2025-06-15 19:52:23 - Key pressed: t
+2025-06-15 19:52:23 - Key pressed: u
+2025-06-15 19:52:23 - Key pressed: f
+2025-06-15 19:52:23 - Key pressed: v
+2025-06-15 19:52:23 - Key pressed: g
+2025-06-15 19:52:24 - Key pressed: h
+2025-06-15 19:52:24 - Key pressed: f
+2025-06-15 19:52:24 - Key pressed: y
+2025-06-15 19:52:51 - Key pressed: p
+2025-06-15 19:52:52 - Key pressed: h
+2025-06-15 19:54:26 - Special key pressed: Key.ctrl_l
+2025-06-15 19:54:26 - Special key pressed: Key.ctrl_l
+2025-06-15 19:54:26 - Key pressed: 
+2025-06-15 19:54:43 - Key pressed: s
+2025-06-15 19:54:44 - Key pressed: h
+2025-06-15 19:54:44 - Key pressed: o
+2025-06-15 19:54:44 - Key pressed: u
+2025-06-15 19:54:45 - Key pressed: l
+2025-06-15 19:54:45 - Key pressed: d
+2025-06-15 19:54:45 - Special key pressed: Key.space
+2025-06-15 19:54:45 - Key pressed: i
+2025-06-15 19:54:46 - Special key pressed: Key.space
+2025-06-15 19:54:46 - Key pressed: c
+2025-06-15 19:54:46 - Key pressed: h
+2025-06-15 19:54:47 - Key pressed: e
+2025-06-15 19:54:47 - Key pressed: c
+2025-06-15 19:54:48 - Key pressed: k
+2025-06-15 19:54:48 - Special key pressed: Key.space
+2025-06-15 19:54:48 - Key pressed: t
+2025-06-15 19:54:48 - Key pressed: h
+2025-06-15 19:54:48 - Key pressed: e
+2025-06-15 19:54:49 - Special key pressed: Key.space
+2025-06-15 19:54:49 - Key pressed: o
+2025-06-15 19:54:49 - Key pressed: u
+2025-06-15 19:54:49 - Key pressed: t
+2025-06-15 19:54:50 - Key pressed: p
+2025-06-15 19:54:50 - Key pressed: u
+2025-06-15 19:54:50 - Key pressed: t
+2025-06-15 19:54:51 - Special key pressed: Key.space
+2025-06-15 19:54:55 - Key pressed: i
+2025-06-15 19:54:55 - Key pressed: n
+2025-06-15 19:54:55 - Special key pressed: Key.space
+2025-06-15 19:54:55 - Key pressed: t
+2025-06-15 19:54:55 - Key pressed: h
+2025-06-15 19:54:56 - Special key pressed: Key.space
+2025-06-15 19:54:56 - Key pressed: =
+2025-06-15 19:54:57 - Key pressed: e
+2025-06-15 19:54:57 - Special key pressed: Key.backspace
+2025-06-15 19:54:57 - Special key pressed: Key.backspace
+2025-06-15 19:54:57 - Special key pressed: Key.backspace
+2025-06-15 19:54:58 - Key pressed: e
+2025-06-15 19:54:58 - Special key pressed: Key.space
+2025-06-15 19:54:58 - Key pressed: t
+2025-06-15 19:54:58 - Key pressed: x
+2025-06-15 19:54:58 - Key pressed: t
+2025-06-15 19:54:59 - Special key pressed: Key.space
+2025-06-15 19:54:59 - Key pressed: f
+2025-06-15 19:54:59 - Key pressed: i
+2025-06-15 19:54:59 - Key pressed: l
+2025-06-15 19:55:00 - Key pressed: e
+2025-06-15 19:55:00 - Special key pressed: Key.space
+2025-06-15 19:55:00 - Key pressed: o
+2025-06-15 19:55:00 - Key pressed: n
+2025-06-15 19:55:01 - Key pressed: l
+2025-06-15 19:55:01 - Key pressed: y
+2025-06-15 19:55:01 - Special key pressed: Key.enter
+2025-06-15 19:55:48 - Key pressed: g
+2025-06-15 19:55:49 - Key pressed: i
+2025-06-15 19:55:49 - Key pressed: t
+2025-06-15 19:56:14 - Key pressed: o
+2025-06-15 19:56:14 - Key pressed: i
+2025-06-15 19:56:15 - Key pressed: i
+2025-06-15 19:56:15 - Key pressed: i
+2025-06-15 19:56:15 - Key pressed: i
+2025-06-15 19:56:15 - Key pressed: i
+2025-06-15 19:56:15 - Key pressed: i
+2025-06-15 19:56:16 - Special key pressed: Key.enter
+2025-06-15 19:56:45 - Key pressed: k
+2025-06-15 19:56:46 - Key pressed: e
+2025-06-15 19:56:46 - Key pressed: y
+2025-06-15 19:56:47 - Key pressed: l
+2025-06-15 19:56:47 - Key pressed: o
+2025-06-15 19:56:47 - Key pressed: g
+2025-06-15 19:56:47 - Key pressed: g
+2025-06-15 19:56:48 - Key pressed: e
+2025-06-15 19:56:48 - Key pressed: r
+2025-06-15 19:56:56 - Special key pressed: Key.shift
+2025-06-15 19:56:56 - Key pressed: _
+2025-06-15 19:56:56 - Key pressed: p
+2025-06-15 19:56:57 - Key pressed: r
+2025-06-15 19:56:57 - Key pressed: o
+2025-06-15 19:56:58 - Key pressed: j
+2025-06-15 19:56:58 - Key pressed: e
+2025-06-15 19:56:58 - Key pressed: c
+2025-06-15 19:56:59 - Key pressed: t
+2025-06-15 19:56:59 - Special key pressed: Key.enter
