@@ -1,83 +1,111 @@
-kEYLOGGER <br>
+KEYLOGGER PROJECT
+Welcome to the Keylogger Project! This project is for educational purposes only, designed to demonstrate how keystroke logging works in a controlled, authorized environment. Unauthorized use of this code is strictly prohibited.
 
 What Does This Project Do?
-This is a basic keylogger that listens to all the keystrokes you press on your keyboard and logs them into a text file with timestamps. It helps you learn how keyloggers work and highlights the importance of cybersecurity.
-FEATURES:<br>
-Tracks and logs every keypress, including letters, numbers, and special keys (like Enter or Space).
+Captures and logs all key presses on your keyboard.
 
-Logs each key with the exact time it was pressed.
+Saves the logged keys with timestamps to a file named keylogger_output.txt.
 
-Stores the logs in a file named keylogger_output.txt for easy access.
-How to Set It Up<br>
-Install Python:<br>
-Make sure you have Python 3.x installed on your computer.<br>
-Install the Required Library:<br>
+Displays a disclaimer when the program starts to ensure ethical use.
 
-Open a terminal and run this command:<br>
+Provides an easy way to stop the program by pressing the Esc key.
 
-bash
+How to Use This Project
+Step 1: Requirements
+Make sure you have the following installed:
 
-Copy
+Python 3.x
 
-Edit
+The required library: pynput
 
-pip install pynput<br>
-Save the Code:<br>
-Save the provided script as keylogger.py in your preferred folder.<br>
-Run the Keylogger:
-Navigate to the folder in your terminal and type:<br>
-bash
-
-Copy
-
-Edit
-
-python keylogger.py<br>
-Stop the Program:<br>
-To stop the keylogger, press Ctrl+C in the terminal.
-View the Logs:<br>
-Open keylogger_output.txt to see the keystrokes that were logged.
-What Should the Logs Look Like?<br>
-Here’s an example of what you’ll find in keylogger_output.txt:
-yaml<br>
-Copy<br>
-Edit<br>
-2025-06-15 19:30:45 - Key pressed: h<br>
-2025-06-15 19:30:46 - Key pressed: e<br>
-2025-06-15 19:30:47 - Special key pressed: Space<br>
-2025-06-15 19:30:48 - Key pressed: w<br>
-2025-06-15 19:30:49 - Key pressed: o<br>
-2025-06-15 19:30:50 - Key pressed: r<br>
-2025-06-15 19:30:51 - Key pressed: l<br>
-2025-06-15 19:30:52 - Key pressed: d<br>
-Why Build This Project?
-Learn Python: Practice Python coding by working on a real-world application.
-
-Understand Cybersecurity: See how keyloggers operate and learn why protecting against them is crucial.
-
-Explore Logging: Gain hands-on experience with Python's logging system.
-
-Folder Structure
-Your project folder should look like this:
+To install pynput, run:
 
 bash
 Copy
 Edit
-keylogger/
-│
-├── keylogger.py         # The Python script<br>
-├── keylogger_output.txt # The log file created during execution<br>
-├── README.md            # This README file<br>
-Important Notes<br>
-For Educational Purposes Only: Use this project responsibly in a controlled environment with proper permissions.<br>
+pip install pynput
+Step 2: Run the Program
+Save the code to a file, for example: keylogger.py.
 
-Secure the Logs: The output file may contain sensitive information if used in a real environment.<br>
+Open a terminal or command prompt.
 
-Contribute to This Project<br>
-If you have ideas to improve the project or want to add new features, feel free to:
+Run the script:
 
-Fork this repository.<br>
+bash
+Copy
+Edit
+python keylogger.py
+Step 3: Stop the Program
+To stop the keylogger, simply press the Esc key.
 
-Make your changes.<br>
+Step 4: Check the Logs
+All logged key presses are saved in the file keylogger_output.txt in the same directory as the script.
 
-Submit a pull request.<br>
+Output Example
+What You’ll See in the Terminal:
+markdown
+Copy
+Edit
+***************************************
+*            DISCLAIMER               *
+***************************************
+This keylogger script is for educational purposes only.
+Use it responsibly and only in authorized environments.
+Unauthorized use of this script is illegal and unethical.
+***************************************
+
+Logging has been set up. Key presses will be saved to 'keylogger_output.txt'.
+Keylogger is running. Press 'Esc' to stop.
+
+Key pressed: a
+Key pressed: b
+Special key pressed: Key.enter
+What You’ll See in keylogger_output.txt:
+vbnet
+Copy
+Edit
+2025-06-15 20:12:30 - Key pressed: a
+2025-06-15 20:12:31 - Key pressed: b
+2025-06-15 20:12:32 - Special key pressed: Key.enter
+Features
+User-Friendly Exit: Press Esc to stop the program at any time.
+
+Comprehensive Logs: Logs both regular and special keys with timestamps.
+
+Disclaimer: Clearly states the purpose and limitations of the script.
+
+Important Notes
+Ethics First: This script is for learning purposes only. Always get proper authorization before using it.
+
+File Permissions: Ensure you have write permissions in the directory where you run the script.
+
+Troubleshooting
+pynput Not Installed?
+Run:
+
+bash
+Copy
+Edit
+pip install pynput
+Empty keylogger_output.txt?
+
+Make sure you have write access to the directory.
+
+Test the script in a simple Python environment.
+
+Script Not Stopping?
+
+Make sure the terminal window is active when pressing Esc.
+
+Author
+Designed by KEDARI Sneha, for educational and demonstration purposes.
+
+Enjoy exploring the world of Python programming and ethical hacking! 🎉
+
+
+
+
+
+
+
+
