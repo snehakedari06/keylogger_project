@@ -16,16 +16,22 @@ Install the Required Library:<br>
 Open a terminal and run this command:<br>
 
 bash
+
 Copy
+
 Edit
-pip install pynput
-Save the Code:
-Save the provided script as keylogger.py in your preferred folder.
+
+pip install pynput<br>
+Save the Code:<br>
+Save the provided script as keylogger.py in your preferred folder.<br>
 Run the Keylogger:
 Navigate to the folder in your terminal and type:<br>
 bash
+
 Copy
+
 Edit
+
 python keylogger.py<br>
 Stop the Program:<br>
 To stop the keylogger, press Ctrl+C in the terminal.
