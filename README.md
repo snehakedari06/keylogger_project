@@ -34,29 +34,28 @@ Navigate to the folder in your terminal and type:
 bash
 Copy
 Edit
-python keylogger.py
-Stop the Program:
-
+python keylogger.py<br>
+Stop the Program:<br>
 To stop the keylogger, press Ctrl+C in the terminal.
 
-View the Logs:
+View the Logs:<br>
 
 Open keylogger_output.txt to see the keystrokes that were logged.
 
 What Should the Logs Look Like?
 Here’s an example of what you’ll find in keylogger_output.txt:
 
-yaml
-Copy
-Edit
-2025-06-15 19:30:45 - Key pressed: h
-2025-06-15 19:30:46 - Key pressed: e
-2025-06-15 19:30:47 - Special key pressed: Space
-2025-06-15 19:30:48 - Key pressed: w
-2025-06-15 19:30:49 - Key pressed: o
-2025-06-15 19:30:50 - Key pressed: r
-2025-06-15 19:30:51 - Key pressed: l
-2025-06-15 19:30:52 - Key pressed: d
+yaml<br>
+Copy<br>
+Edit<br>
+2025-06-15 19:30:45 - Key pressed: h<br>
+2025-06-15 19:30:46 - Key pressed: e<br>
+2025-06-15 19:30:47 - Special key pressed: Space<br>
+2025-06-15 19:30:48 - Key pressed: w<br>
+2025-06-15 19:30:49 - Key pressed: o<br>
+2025-06-15 19:30:50 - Key pressed: r<br>
+2025-06-15 19:30:51 - Key pressed: l<br>
+2025-06-15 19:30:52 - Key pressed: d<br>
 Why Build This Project?
 Learn Python: Practice Python coding by working on a real-world application.
 
@@ -72,19 +71,19 @@ Copy
 Edit
 keylogger/
 │
-├── keylogger.py         # The Python script
-├── keylogger_output.txt # The log file created during execution
-├── README.md            # This README file
-Important Notes
-For Educational Purposes Only: Use this project responsibly in a controlled environment with proper permissions.
+├── keylogger.py         # The Python script<br>
+├── keylogger_output.txt # The log file created during execution<br>
+├── README.md            # This README file<br>
+Important Notes<br>
+For Educational Purposes Only: Use this project responsibly in a controlled environment with proper permissions.<br>
 
-Secure the Logs: The output file may contain sensitive information if used in a real environment.
+Secure the Logs: The output file may contain sensitive information if used in a real environment.<br>
 
-Contribute to This Project
+Contribute to This Project<br>
 If you have ideas to improve the project or want to add new features, feel free to:
 
-Fork this repository.
+Fork this repository.<br>
 
-Make your changes.
+Make your changes.<br>
 
-Submit a pull request.
+Submit a pull request.<br>
